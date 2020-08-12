@@ -1,1 +1,1 @@
-echo "<h1>INI KUCING MALAS!!</h1>" > index.html
+echo "<h1>INI KUCING MALAS!! TAPI HAPPY DAN KAYA RAYA!</h1>" > index.html
